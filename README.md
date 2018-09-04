@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to the super Legendary GitHub chronicles
+# This is my super github website, full of documentation of the github chronicles
 
 You can use the [editor on GitHub](https://github.com/NASADatanauts/BriansOutgassingdb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
